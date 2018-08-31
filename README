@@ -91,3 +91,13 @@
  are potentially subject to such restrictions you should seek competent
  professional legal advice before attempting to develop or distribute
  cryptographic code.
+
+
+
+Android build
+* 下载配置脚本
+
+```
+wget https://wiki.openssl.org/images/7/70/Setenv-android.sh
+
+```
